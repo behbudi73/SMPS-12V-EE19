@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C7 Old Footprint=Cap electrolitic radial 6.3x12-2.5 New Footprint=Cap electrolitic radial 5x11-2
+Change Component Footprint: Designator=C6 Old Footprint=Cap electrolitic radial 8x12-3.5 New Footprint=Cap electrolitic radial 10x16-5
+Change Component Comment : Designator=C7 Old Comment=100uF-25V New Comment=100uF-16V
+Change Component Comment : Designator=C6 Old Comment=330uF-25V New Comment=1000uF-25V
